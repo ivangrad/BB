@@ -6,3 +6,5 @@ B1=table2array(B);
 
 fprintf(fid, '%f %f \n', [A1,B1]');
 fclose(fid);
+
+Niiiiiii!
