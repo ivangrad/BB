@@ -14,3 +14,6 @@ Niko!
 ## How to contribute to CFD Python
 
 Welcom all contributions via pull request—in fact, several users have already submitted pull requests making corrections or small improvements. You can also open an issue if you find a bug, or have a suggestion. 
+
+
+Sam!
